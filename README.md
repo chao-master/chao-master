@@ -1,4 +1,8 @@
-### Hi there 👋
+### about:Ripp_
+ - They/Them Pronouns
+ - 🔎 Find me on:
+   - [🐘 Mastodon](https://mastodon.social/@ripp_)
+   - [Replit](https://replit.com/@Ripp)
 
 <!--
 **chao-master/chao-master** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
